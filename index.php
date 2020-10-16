@@ -1,5 +1,5 @@
 <?php
 
-shell_exec("ping google.com");
+echo shell_exec("ping google.com");
 
 ?>
