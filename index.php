@@ -1,1 +1,5 @@
-<?php print('namaste Bharat'); ?>
+<?php
+
+shell_exec("ping google.com");
+
+?>
